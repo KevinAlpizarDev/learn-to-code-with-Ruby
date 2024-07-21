@@ -6,4 +6,4 @@ puts "nis" + "fortune"
 # puts 3 + "4"
  
 
-puts 23 % 4 
+puts 23 % 5
